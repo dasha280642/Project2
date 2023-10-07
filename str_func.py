@@ -1,11 +1,11 @@
 def uppercase_string(string):
-    print()
+    input()
     return string.upper()
 
 
 """
     Преобразует строку в верхний регистр.
-
+dddddddddd
     Аргументы:
     string (str): Исходная строка.
 

@@ -1,4 +1,5 @@
 def uppercase_string(string):
+    print()
     return string.upper()
 
 

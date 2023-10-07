@@ -1,10 +1,10 @@
 def uppercase_string(string):
-    
     return string.upper()
 
 
 """
     Преобразует строку в верхний регистр.
+
     Аргументы:
     string (str): Исходная строка.
 
@@ -16,4 +16,5 @@ def uppercase_string(string):
     'HELLO'
     >>> uppercase_string("world")
     'WORLD'...
+
 """
